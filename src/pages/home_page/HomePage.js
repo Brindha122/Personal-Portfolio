@@ -31,7 +31,7 @@ export default function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> MD MAFUJUL HASAN</strong>
+                <strong className="main-name"> S BRINDHA</strong>
               </h1>
 
               <div className="typing-homeclass">
@@ -39,56 +39,11 @@ export default function Home() {
               </div>
               <div className="sociallink-home">
                 <ul className="homeaboutsociallinks">
-                  <li className="socialicons">
-                    <a
-                      href="https://github.com/MD-MAFUJUL-HASAN"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="iconcolour  homesocialicons"
-                    >
-                      <AiFillGithub />
-                    </a>
-                  </li>
-                  <li className="socialicons">
-                    <a
-                      href="https://www.linkedin.com/in/md-mafujul-hasan/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="iconcolour  homesocialicons"
-                    >
-                      <FaLinkedinIn />
-                    </a>
-                  </li>
-                  <li className="socialicons">
-                    <a
-                      href="https://www.instagram.com/_md_mafujul_hasan_/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="iconcolour homesocialicons"
-                    >
-                      <AiFillInstagram />
-                    </a>
-                  </li>
-                  <li className="socialicons">
-                    <a
-                      href="https://www.facebook.com/mh.tonmoy.13"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="iconcolour homesocialicons"
-                    >
-                      <FaFacebookF />
-                    </a>
-                  </li>
-                  <li className="socialicons">
-                    <a
-                      href="mailto:mdtonmoy13.mt@gmail.com/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="iconcolour homesocialicons"
-                    >
-                      <FaGoogle />
-                    </a>
-                  </li>
+                  
+                
+                  
+                 
+        
                 </ul>
               </div>
             </Col>
@@ -97,7 +52,7 @@ export default function Home() {
                 <Tilt>
                   <Fade cascade>
                     <img
-                      src="./profile.png"
+                      src="/brindha.jpg"
                       alt="home pic"
                       className="img-fluid"
                     />

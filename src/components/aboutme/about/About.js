@@ -28,36 +28,15 @@ const About = () => {
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
-                My name is <b className="purple">MD Mafujul Hasan </b> 
+                My name is <b className="purple">S BRINDHA </b> 
                   and I am a <b className="purple">Computer Science and Engineering </b> 
-                    student at <b className="purple">Sonargaon University </b>
-                      in Dhaka, Bangladesh.
-                <br />
-                <br />
-                        I am proficient in various programming languages such as &nbsp;
-                  <b className="purple">
-                    {" "}
-                    C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.{" "}
-                  </b>
-                <br />
-                <br />
-                I also have experience working with frameworks and libraries such as &nbsp;
-
-                  <b className="purple">
-                    {" "}
-                    NodeJS, ReactJS, OpenCV, Pandas, and NumPy.{" "}
-                  </b>
-                <br />
-                <br />
-                Whenever possible, I also apply my passion for developing
-                products with &nbsp;
-                  <b className="purple">
-                    {" "}
-                    Modern Javascript Library and Frameworks.
-                  </b>
-                <br />
-                <br />In my free time, I enjoy learning new technologies and &nbsp;
-                  <b className="purple">building new web technologies and products. </b>
+                    student at <b className="purple">
+                      Knowledge Institute Of Technology </b>
+                      in salem. I enjoy <b className="purple"> solving complex problems </b> and developing innovative<b className="purple"> web technologies and product. </b>
+                      <br/>
+                      <br/>
+                      when I'm not coding. I invest my time in exploring new challenges, learning emerging tech, and refining my skills to build impact solutions.
+                      <br/>
               </p>
             </Fade>
           </Col>

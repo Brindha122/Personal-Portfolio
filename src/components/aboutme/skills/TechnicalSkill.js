@@ -114,7 +114,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#f1f965", fontWeight: 700 }}
               >
-                71%
+                80%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -135,7 +135,7 @@ export default function TechnicalSkill() {
                     fontWeight: 700,
                   }}
                 >
-                  Javascript
+                  HTML
                 </h2>
               </div>
             </Col>
@@ -143,7 +143,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#ff0173", fontWeight: 700 }}
               >
-                68%
+                80%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -164,7 +164,7 @@ export default function TechnicalSkill() {
                     fontWeight: 700,
                   }}
                 >
-                  MySQL
+                  CSS
                 </h2>
               </div>
             </Col>
@@ -172,7 +172,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#ff8c2f", fontWeight: 700 }}
               >
-                66%
+                75%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -193,7 +193,7 @@ export default function TechnicalSkill() {
                     fontWeight: 700,
                   }}
                 >
-                  NodeJS
+                  JavaScript
                 </h2>
               </div>
             </Col>
@@ -230,7 +230,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#fe3e57", fontWeight: 700 }}
               >
-                75%
+                50%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
@@ -251,7 +251,7 @@ export default function TechnicalSkill() {
                     fontWeight: 700,
                   }}
                 >
-                  PHP
+                 Node js 
                 </h2>
               </div>
             </Col>
@@ -259,7 +259,7 @@ export default function TechnicalSkill() {
               <h1
                 style={{ fontSize: "100px", color: "#54faae", fontWeight: 700 }}
               >
-                75%
+                70%
               </h1>
               <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
                 <div class="progress">
